@@ -17,9 +17,9 @@
   - **Brandeis International Business School** – MS in Business Analytics *(Dean’s Merit Scholarship)*  
   - **Chandigarh University** – BE in Computer Science  
 
-- 🔭 I’m currently working on **Full-stack ML Web Apps** integrating **XGBoost, RAG Pipelines, and Power BI** for predictive analytics and automation.
+- 🔭 I recently worked on **Full-stack ML Web Apps** integrating **XGBoost, RAG Pipelines, and Power BI** for predictive analytics and automation.
 
-- 🌱 I’m currently learning **Advanced MLOps**, **Azure Databricks**, and **Generative AI** for enterprise-scale deployment.
+- 🌱 I’m currently learning and working in **Advanced MLOps**, **Azure Databricks**, and **Generative AI** for enterprise-scale deployment.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/bpimmanni)
 
@@ -29,7 +29,7 @@
 
 - 📄 Know more about my experiences: [LinkedIn](https://linkedin.com/in/bpimmanni) | [CV](#)
 
-- ⚡ Fun fact: **I code best after a good night’s sleep and a walk aling the river!**
+- ⚡ Fun fact: **I code best after a good night’s sleep and a walk along the river!**
 
 ---
 
@@ -48,8 +48,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
@@ -61,6 +63,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-us/services/databricks/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Azure_Databricks_Logo.svg" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Microsoft_Office_SharePoint_%282019-present%29.svg" width="40" height="40"/></a>
 </p>
 
 ---
