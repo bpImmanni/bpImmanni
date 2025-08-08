@@ -21,15 +21,15 @@
 
 - 🌱 I’m currently learning **Advanced MLOps**, **Azure Databricks**, and **Generative AI** for enterprise-scale deployment.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/bhanuimmanni)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/bpimmanni)
 
 - 💬 Ask me about **Machine Learning, Data Engineering, NLP, RAG, Power BI, and Full-stack Analytics**
 
 - 📫 How to reach me: **immannibhanu@gmail.com**
 
-- 📄 Know more about my experiences: [LinkedIn](https://linkedin.com/in/bhanuimmanni) | [CV](#)
+- 📄 Know more about my experiences: [LinkedIn](https://linkedin.com/in/bpimmanni) | [CV](#)
 
-- ⚡ Fun fact: **I code best after a coffee and a good night’s sleep!**
+- ⚡ Fun fact: **I code best after a good night’s sleep and a walk aling the river!**
 
 ---
 
