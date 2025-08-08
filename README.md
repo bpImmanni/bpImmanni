@@ -68,6 +68,22 @@
 
 ---
 
+<h3 align="left">🚀 Featured Projects:</h3>
+
+- **[Procurement RAG & ML Automation Platform](#)**  
+  *Technologies:* Python, Streamlit, Docker, Azure AD OAuth2.0, LangChain, OpenAI API, FAISS, Power BI  
+  Designed and deployed a secure, containerized ML-powered Streamlit platform with integrated RAG pipeline for procurement data filtering and opportunity scoring, reducing manual review time by 80%.
+
+- **[PO Delay Prediction & Analytics Suite](#)**  
+  *Technologies:* Python, XGBoost, scikit-learn, Pandas, NumPy, Power BI, OneDrive API, Google Sheets API  
+  Built an end-to-end ML system for predicting purchase order delays, automated ETL pipelines, and connected outputs to Power BI dashboards for real-time analytics and vendor performance monitoring.
+
+- **[Healthcare & Construction Data Insights Platform](#)**  
+  *Technologies:* Python, Pandas, NumPy, SQL, Tableau, Excel Power Query, Pivot Tables  
+  Created ETL pipelines and interactive dashboards to track KPIs such as patient wait times, bed utilization, and construction project delays, improving decision-making speed and stakeholder engagement by 20%.
+
+---
+
 <h3 align="left">GitHub Stats:</h3>
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuimmanni&show_icons=true&locale=en&layout=compact" alt="bhanuimmanni" />
